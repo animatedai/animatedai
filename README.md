@@ -1,4 +1,4 @@
-# ![Animated AI](banner.jpg)
+# ![Animated AI](Banner.jpg)
 
 I'm creating animations and instructional videos about neural networks. Check out my [YouTube channel](https://www.youtube.com/channel/UC5bSCGdcE9x9ffqqgJlGp5Q)!
 
